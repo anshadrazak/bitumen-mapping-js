@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bitumen-mapping-js.vercel.app/sitemap.xml
